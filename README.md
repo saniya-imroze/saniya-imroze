@@ -51,9 +51,10 @@ Beyond writing clean, performant code, I am a community builder—advocating for
 
 ## 📊 GitHub Analytics
 
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniya-imroze&show_icons=true&theme=tokyonight" alt="Saniya's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-imroze&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.shion.dev/api?username=saniya-imroze&show_icons=true&theme=tokyonight" alt="Saniya's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saniya-imroze&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
 ---
